@@ -92,6 +92,14 @@ mission-control-ai/
 
 ---
 
+## ▶️ Como Executar
+
+1. Abra o projeto no Tinkercad.
+2. Inicie a simulação.
+3. Acione os interruptores correspondentes às entradas A, B, C, D e E.
+4. Observe o comportamento dos LEDs conforme a expressão booleana implementada.
+
+---
 
 ## 👨‍💻 Integrantes
 
@@ -99,6 +107,14 @@ mission-control-ai/
 * RM 570436 – Gabriel Del Pizzo Pintor
 * RM 570540 – Ian Rodrigues Martins
 
+---
+
+
+## 🔗 Simulação no Tinkercad
+
+Link do projeto:
+
+https://www.tinkercad.com/things/jiVFe01DgvD-computer-organization-and-architecture-gs?sharecode=VrqgMavTh5M6xinAibRFmEG0XGqs0Mv1KbJXc-gYS-I
 
 ---
 
